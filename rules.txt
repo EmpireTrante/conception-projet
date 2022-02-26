@@ -21,17 +21,9 @@ Caractéristiques
 
 
 Équilibre
-    Corporel
-        Involontaire
-            Force
-            Constitution
-            Réflexe
-            Endurance
-        Volontaire
-            Combat rapproché
-            Tir visé
-            Dextérité
-            Athlétisme
+   Impersonnel
+        Chance
+        Karma
     Personnel
         Inspire
             Perception
@@ -52,9 +44,19 @@ Caractéristiques
             Sociabilité
             Connaissance
             Charisme
-    Impersonnel
-        Chance
-        Karma
+    Corporel
+        Être
+            Force
+            Souplesse
+            Constitution
+            Réflexe
+            Endurance
+        Faire
+            Combat rapproché
+            Tir visé
+            Dextérité
+            Athlétisme
+            Agilité
 
 
 
