@@ -20,50 +20,48 @@ Caractéristiques
 
 
 
-Corporel
-
-
-Personnel
-    Inspire
-        Perception
-            Vue
-            Ouïe
-            Odorat
-        Empathie
-        Intuition
-    Intérieur
-        Intellect
-        Contrôle
-        Santé mentale
-    Expire
-        Volonté
-        Hargne
-        Discrétion
-    Extérieur
-        Sociabilité
-        Connaissance
-        Charisme
-
-Impersonnel
-    Chance
-    Karma
-
-
-
-Puissance    
-Force
-Agilité
-Réflexe
-Endurance
-Force
-Combat rapproché
-Tir visé
-Constitution
-Dextérité
-Course
+Équilibre
+    Corporel
+        Involontaire
+            Force
+            Constitution
+            Réflexe
+            Endurance
+        Volontaire
+            Combat rapproché
+            Tir visé
+            Dextérité
+            Athlétisme
+    Personnel
+        Inspire
+            Perception
+                Vue
+                Ouïe
+                Odorat
+            Empathie
+            Intuition
+        Intérieur
+            Intellect
+            Contrôle
+            Santé mentale
+        Expire
+            Volonté
+            Hargne
+            Discrétion
+        Extérieur
+            Sociabilité
+            Connaissance
+            Charisme
+    Impersonnel
+        Chance
+        Karma
 
 
 
+
+
+
+Si le PJ perd des points pendant une aventure, par exemple il perd en Vue parce qu'il s'est fait crevé un oeil, il devrait rééquilibrer ce point perdu par un point gagné ailleurs, de sorte que l'équilibre général soit restauré. Il devra inventer l'histoire (qu'il a vécu pendant les deux aventures) qui explique comment il a gagné ce point.
 
 
 
