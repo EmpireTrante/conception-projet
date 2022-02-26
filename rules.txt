@@ -1,0 +1,44 @@
+
+
+
+esprit
+charisme
+puissance
+habileté
+
+
+
+Caractéristiques
+
+-3  absence
+-2  carence
+-1  point faible
+=0  équilibre
++1  point fort
++2  dominance
++3  essence
+
+
+
+Agilité
+Réflexe
+Endurance
+Force
+Combat
+Constitution
+Dextérité
+
+Intellect
+Empathie
+Perception
+Contrôle
+Connaissance
+Charisme
+Volonté
+
+Chance
+
+
+
+
+
