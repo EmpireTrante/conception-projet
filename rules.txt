@@ -20,23 +20,50 @@ Caractéristiques
 
 
 
+Corporel
+
+
+Personnel
+    Inspire
+        Perception
+            Vue
+            Ouïe
+            Odorat
+        Empathie
+        Intuition
+    Intérieur
+        Intellect
+        Contrôle
+        Santé mentale
+    Expire
+        Volonté
+        Hargne
+        Discrétion
+    Extérieur
+        Sociabilité
+        Connaissance
+        Charisme
+
+Impersonnel
+    Chance
+    Karma
+
+
+
+Puissance    
+Force
 Agilité
 Réflexe
 Endurance
 Force
-Combat
+Combat rapproché
+Tir visé
 Constitution
 Dextérité
+Course
 
-Intellect
-Empathie
-Perception
-Contrôle
-Connaissance
-Charisme
-Volonté
 
-Chance
+
 
 
 
